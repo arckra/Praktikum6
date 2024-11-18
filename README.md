@@ -1,4 +1,4 @@
-**Praktikum6**
+**PRAKTIKUM 6**
 # Soal
 **Tugas Praktikum**
 
