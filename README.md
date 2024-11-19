@@ -49,4 +49,5 @@ Alur Flowchart:
   - Nilai Huruf
 7. Selesai
 - Proses flowchart berakhir
-  Flowchart ini menggambarkan algoritma sederhana untuk menghitung nilai akhir mahasiswa dengan mempertimbangkan tiga komponen penilaian dan mengonversinya ke dalam nilai huruf.
+
+Flowchart ini menggambarkan algoritma sederhana untuk menghitung nilai akhir mahasiswa dengan mempertimbangkan tiga komponen penilaian dan mengonversinya ke dalam nilai huruf.
